@@ -1,0 +1,2 @@
+# assignment
+A.I class
